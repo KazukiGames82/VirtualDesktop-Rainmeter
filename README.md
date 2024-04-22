@@ -1,5 +1,5 @@
 ﻿﻿<h1 align="center">
-  VirtualDesktop - Tool
+  VirtualDesktop - Rainmeter
   <br>
 </h1>
 
