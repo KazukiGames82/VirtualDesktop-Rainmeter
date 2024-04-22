@@ -119,3 +119,7 @@ Example skin for someone who want to use it
   RegValue=CurrentVirtualDesktop
   ```
 </details>
+<h1></h1>
+
+- **Credits:**
+  - [VirtualDesktopAccessor](https://github.com/Ciantic/VirtualDesktopAccessor) dll file by [Jari Pennanen/Ciantic](https://github.com/Ciantic).
